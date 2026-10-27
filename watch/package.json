@@ -30,7 +30,7 @@
     },
     "companionApp": {
       "android": {
-        "url": "https://github.com/",
+        "url": "https://github.com/jojo-pebble/shutter-remote/releases/latest",
         "apps": [
           {
             "package": "com.jojo.pebbleshutter"
