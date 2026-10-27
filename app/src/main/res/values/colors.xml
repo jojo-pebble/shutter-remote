@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_black">#000000</color>
+    <!-- Same orange as on the watch (GColorOrange) -->
+    <color name="icon_orange">#FF5500</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shutter Remote</string>
+    <string name="service_name">Shutter Remote</string>
+    <string name="service_description">Presses the shutter button in your phone\'s camera when you tap it on your Pebble watch. It does not read or send anything.</string>
+</resources>
