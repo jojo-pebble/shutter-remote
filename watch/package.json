@@ -1,0 +1,42 @@
+{
+  "name": "shutter-remote",
+  "author": "Jojo",
+  "version": "1.1.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "Shutter Remote",
+    "uuid": "4ef3430e-3ba5-442a-baef-b75bc300942c",
+    "sdkVersion": "3",
+    "enableMultiJS": false,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "IMAGE_MENU_ICON",
+          "file": "images/menu_icon.png",
+          "menuIcon": true
+        }
+      ]
+    },
+    "companionApp": {
+      "android": {
+        "url": "https://github.com/",
+        "apps": [
+          {
+            "package": "com.jojo.pebbleshutter"
+          }
+        ]
+      }
+    }
+  }
+}
